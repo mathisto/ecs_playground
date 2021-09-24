@@ -1,0 +1,6 @@
+#!/bin/sh
+cd "`dirname "$0"`"
+
+cd ..
+cd ..
+exec ./dragonruby samples/ecs_playground
