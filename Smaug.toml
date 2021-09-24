@@ -15,6 +15,7 @@ edition = "standard"
 [dependencies]
 maw = "1.4.1"
 color = "0.1.2"
+draco = "0.6.1"
 
 [itch]
 # The Project URL you set when you created the game on Itch.io. https://my-username.itch.io/my-game.
