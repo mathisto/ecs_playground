@@ -1,4 +1,3 @@
-require 'app/colors.rb'
 require 'app/config.rb'
 
 ########### DO NOT MODIFY BELOW THIS LINE ###########
